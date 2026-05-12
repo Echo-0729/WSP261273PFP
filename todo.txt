@@ -5,5 +5,5 @@ My TO-DO List
 4. Attend class on time
 5. Visit library every Friday
 6. Apply for IT jobs
-Commit to improve your skills in IT
-Search for short courses in IT
+7. Commit to improve your skills in IT
+8. Search for short courses in IT
